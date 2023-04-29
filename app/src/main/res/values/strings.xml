@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="text_to_speech_converter">Text To Speech Converter</string>
+    <string name="speak">Speak</string>
+    <string name="Speak">Speak</string>
+    <string name="enter_your_text_to_speak">Enter your text to speak</string>
+    <string name="enter_your_text_here">Enter Your Text Here</string>
+</resources>
